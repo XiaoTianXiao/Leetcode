@@ -35,3 +35,5 @@ Set接口：
 		有序排列: TreeSet
 	![plHashSet](https://github.com/XiaoTianXiao/Leetcode/blob/master/QustionsPhoto/JS3hashset.png)
 	![plTreeSet](https://github.com/XiaoTianXiao/Leetcode/blob/master/QustionsPhoto/JS3treeset.png)
+******************************************************************************************************
+![pliterator](https://github.com/XiaoTianXiao/Leetcode/blob/master/QustionsPhoto/JS3iterator.png)
