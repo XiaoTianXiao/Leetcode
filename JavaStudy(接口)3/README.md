@@ -1,0 +1,1 @@
+Collection接口：
