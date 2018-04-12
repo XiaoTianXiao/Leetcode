@@ -25,4 +25,4 @@ List接口：
 		判断集合是否为空: boolean isEmpty()
 		查找指定的对象是否存在: int indexOf(Object o)
 
-![photo lost]()
+![photo lost](https://github.com/XiaoTianXiao/Leetcode/blob/master/QustionsPhoto/JS3list.jpg)
