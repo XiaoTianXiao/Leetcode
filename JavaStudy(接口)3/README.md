@@ -37,3 +37,4 @@ Set接口：
 	![plTreeSet](https://github.com/XiaoTianXiao/Leetcode/blob/master/QustionsPhoto/JS3treeset.png)
 ******************************************************************************************************
 ![pliterator](https://github.com/XiaoTianXiao/Leetcode/blob/master/QustionsPhoto/JS3iterator.png)
+![pliterator](https://github.com/XiaoTianXiao/Leetcode/blob/master/QustionsPhoto/JS3iteratorcode.png)
